@@ -14,9 +14,10 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-                <?php include './rotas/basico.php'?>
-                <?php include './rotas/tipos.php'?>
+                <?php include './rotas/controle.php'?>
                 <?php include './rotas/variaveis.php'?>
+                <?php include './rotas/tipos.php'?>
+                <?php include './rotas/basico.php'?>
             </nav>
         </div>
     </main>
