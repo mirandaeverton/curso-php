@@ -22,7 +22,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?=date('Y');?>
+        EVERTON MIRANDA © <?=date('Y');?>
     </footer>
 </body>
 </html>
