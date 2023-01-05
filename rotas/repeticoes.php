@@ -11,4 +11,9 @@
                 Desafio For
             </a>
         </li>
+        <li>
+            <a href="exercicio.php?dir=repeticoes&file=foreach">
+                Foreach
+            </a>
+        </li>
 </div>
