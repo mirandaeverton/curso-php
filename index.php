@@ -14,6 +14,7 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <?php include './rotas/repeticoes.php'?>
                 <?php include './rotas/array.php'?>
                 <?php include './rotas/controle.php'?>
                 <?php include './rotas/variaveis.php'?>
